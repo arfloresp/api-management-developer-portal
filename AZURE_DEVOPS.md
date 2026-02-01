@@ -162,8 +162,8 @@ git push origin master  # This will push to both
 
 ## Additional Resources
 
-- [Azure DevOps Repos Documentation](https://docs.microsoft.com/en-us/azure/devops/repos/)
-- [Azure Pipelines Documentation](https://docs.microsoft.com/en-us/azure/devops/pipelines/)
+- [Azure DevOps Repos Documentation](https://learn.microsoft.com/en-us/azure/devops/repos/)
+- [Azure Pipelines Documentation](https://learn.microsoft.com/en-us/azure/devops/pipelines/)
 - [API Management Developer Portal Documentation](https://aka.ms/apimdocs/portal)
 - [Pipeline Configuration](.pipeline/readme.md)
 
