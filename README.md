@@ -8,6 +8,10 @@ This repository is managed by the [Microsoft Azure API Management](https://aka.m
 
 The `master` branch of this repository is used for daily development purposes and may contain unstable version of the software. We recommend using [releases](https://github.com/Azure/api-management-developer-portal/releases) for setting up your portal.
 
+## <a name="azure-devops"></a> Working with Azure DevOps
+
+If you want to work with this repository using Azure DevOps instead of GitHub, see the [Azure DevOps guide](AZURE_DEVOPS.md) for instructions on importing, setting up pipelines, and managing the repository in Azure DevOps.
+
 ## <a name="feedback"></a> Interactions
 
 ### Managed developer portal, 

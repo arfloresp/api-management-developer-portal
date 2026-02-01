@@ -1,4 +1,7 @@
 # Create your pipeline
+
+> **Note:** For complete Azure DevOps setup instructions, including how to import this repository into Azure DevOps, see the [Azure DevOps guide](../AZURE_DEVOPS.md).
+
 In your Azure DevOps project pipelines section select new pipeline.
 
 Select your source code provider and repository in the first two tabs and in the Configure steps above. Scroll down to the bottom of the page and select Existing Azure Pipelines YAML file:
